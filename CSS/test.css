@@ -1,0 +1,68 @@
+li{
+    list-style-type: none;    
+    background-color: rgb(49, 90, 215);
+    width: 100px;
+    height: 80px;
+text-align: center;
+
+line-height: 80px;
+}
+.xiance{
+
+    text-decoration: none;
+      color: aliceblue;  
+
+
+}
+ul{
+    display: inline-block
+}
+li:hover{
+    background-color: aqua;
+}
+
+.dierhang{
+    display: inline-block;
+}
+.dierhang a{
+    color:orange;
+    display: block;
+    width: 100px;
+    height: 80px;
+    background-color: rgb(97, 104, 238);
+    text-decoration: none;
+    text-align: center;
+    line-height: 80px;
+    font-size: 18px;
+    box-shadow: 2px 5px 10px 1px black;
+}
+div a:hover{
+    background-color: aqua;
+}
+.beijing{
+    background-color: rgb(243, 243, 243);
+background-image: url(../images/testbackground.png);
+height: 500px;
+background-size: contain;
+background-repeat: no-repeat;
+text-align: right;
+background-position: left bottom;
+}
+.beijing a{
+    display: inline-block;
+    background-color: aqua;
+    width: 100px;
+    height: 80px;
+    text-decoration: none;
+    line-height: 80px;
+    text-align: center;
+    font-size: 18px;
+}
+.beijing a:hover{
+    background-color: rgb(56, 189, 132);
+}
+.beijing h2{
+    height: 100px;
+    line-height: 100px;
+    font-weight: 400;
+}
